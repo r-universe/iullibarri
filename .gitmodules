@@ -5,6 +5,9 @@
 [submodule "MPBoost"]
 	path = MPBoost
 	url = https://github.com/cran/MPBoost
+[submodule "kerdiest"]
+	path = kerdiest
+	url = https://github.com/cran/kerdiest
 [submodule "npcure"]
 	path = npcure
 	url = https://github.com/cran/npcure
